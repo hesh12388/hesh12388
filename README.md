@@ -10,22 +10,6 @@
 
 ---
 
-## 📂 Featured Projects  
-
-### **📱 Student Union Mobile App**  
-Cross-platform mobile app for 400+ students with scheduling, task management, and file storage.  
-**Tech:** React Native, TypeScript, Expo, Spring Boot, PostgreSQL, Supabase, AWS S3  
-
-### **🎮 Educational Game for IBM SkillsBuild**  
-2D RPG game teaching web development with AI-assisted learning.  
-**Tech:** Unity (C#), Express.js, OpenAI API, LangChain, AstraDB  
-
-### **💹 Cryptocurrency Exchange Web App**  
-Full-stack crypto trading platform with real-time price updates and secure transactions.  
-**Tech:** Next.js, TypeScript, Prisma, SQLite  
-
----
-
 ## 🏆 Achievements  
 - **Electronic Engineering and Computer Science Final Year Prize (2025)**  
 - **Annual Fund Performance Scholarship, Queen Mary (2024)**  
