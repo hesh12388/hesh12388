@@ -11,6 +11,6 @@
 ---
 
 ## 🏆 Achievements  
-- **Electronic Engineering and Computer Science Final Year Prize (2025)**  
+- **Electronic Engineering and Computer Science Final Year Prize, Queen Mary (2025)**  
 - **Annual Fund Performance Scholarship, Queen Mary (2024)**  
-- **Best Software Engineering Project Award (2024)**  
+- **Best Software Engineering Project Award, Queen Mary (2024)**  
