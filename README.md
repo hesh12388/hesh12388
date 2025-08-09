@@ -11,16 +11,18 @@
 [![My Skills](https://skillicons.dev/icons?i=python,java,cs,php,r,typescript,javascript)](https://skillicons.dev)  
 
 ### **Web & App Development**  
-[![My Skills](https://skillicons.dev/icons?i=react,reactnative,nextjs,nodejs,nestjs,express,spring,typescript,javascript)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=react,reactnative,flutter,nextjs,nodejs,nestjs,express,spring,typescript,javascript)](https://skillicons.dev)  
 
 ### **Data & AI**  
 [![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,java,python)](https://skillicons.dev)  
 
 ### **Big Data & Infrastructure**  
-[![My Skills](https://skillicons.dev/icons?i=spark,hadoop,docker,git)](https://skillicons.dev)  
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
+[![My Skills](https://skillicons.dev/icons?i=docker,git)](https://skillicons.dev)
 
 ### **Databases & Cloud**  
-[![My Skills](https://skillicons.dev/icons?i=postgres,supabase,sqlite,aws,gcp)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=postgres,supabase,firebase,mongodb,prisma,aws,gcp)](https://skillicons.dev)  
 
 ---
 
